@@ -1,4 +1,5 @@
 variant,orderDate,orderTime,preferred_retailer,audience,pet_age_range,nutritional_interest,current_brand
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:44:26,Walmart or Target,meta,1-6 Years,Skin and coat health,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,17:05:40,PetSmart,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-23,01:03:33,Walmart or Target,meta,1-6 Years,No specific concern,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,14:30:39,Grocery store,meta,1-6 Years,Healthy weight,Other
@@ -320,6 +321,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,12:05:43,Petco,meta,12+ Years,Sensitive
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-15,17:40:48,Other,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-17,03:50:11,PetSmart,meta,7-11 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,17:27:27,Chewy,audience_1,1-6 Years,Everyday health and wellness,Hill's Science Diet
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:45:03,Petco,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,00:04:58,Chewy,meta,12+ Years,Everyday health and wellness,Royal Canin
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,20:02:42,Walmart or Target,meta,7-11 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,15:42:30,PetSmart; Walmart or Target,audience_1,1-6 Years,Skin and coat health,Royal Canin
@@ -446,6 +448,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,14:58:03,Walmart or Target,meta,1-6 Yea
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,14:49:12,Grocery store,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-14,01:57:00,Grocery store; Walmart or Target; Chewy,audience_1,1-6 Years,No specific concern,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-14,15:17:33,Grocery store,audience_1,Under One Year,Everyday health and wellness,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,14:09:49,Chewy,meta,1-6 Years,Sensitive stomach or digestion,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-15,20:04:44,Amazon,meta,12+ Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,21:28:06,Amazon,meta,12+ Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,02:14:56,PetSmart,meta,1-6 Years,Everyday health and wellness,Other
@@ -468,6 +471,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,23:58:36,Other,meta,7-11 Years,Sensitiv
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,17:36:25,PetSmart,audience_1,1-6 Years,Everyday health and wellness,Hill's Science Diet
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-15,17:00:29,PetSmart; Walmart or Target; Grocery store,meta,7-11 Years,No specific concern,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,21:29:20,Petco; Chewy,meta,12+ Years,Healthy weight,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:37:05,Chewy; Amazon,meta,7-11 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-15,05:22:19,Walmart or Target,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,02:29:44,PetSmart; Petco; Amazon; Walmart or Target,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,23:08:37,PetSmart; Petco,meta,1-6 Years,Everyday health and wellness,Other
@@ -526,6 +530,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,21:06:18,Grocery store; PetSmart; Walma
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,23:26:11,Walmart or Target,meta,7-11 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-16,20:23:35,PetSmart,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,22:33:42,Petco; Amazon,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:38:41,Independent pet retailer; Grocery store,meta,1-6 Years,Healthy weight,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-17,18:36:54,Walmart or Target,meta,Under One Year,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,01:19:45,PetSmart; Petco; Amazon,meta,1-6 Years,No specific concern,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,03:10:19,Chewy,meta,7-11 Years,Everyday health and wellness,Other
@@ -1013,6 +1018,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,05:23:05,PetSmart,meta,1-6 Years,Everyd
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,23:24:53,Walmart or Target,audience_1,7-11 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-23,18:05:25,Grocery store,meta,12+ Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,15:02:31,Other; Chewy,audience_1,7-11 Years,Everyday health and wellness,Other
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,14:10:03,Walmart or Target,meta,7-11 Years,Healthy weight,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,12:53:25,PetSmart; Amazon; Walmart or Target,audience_1,1-6 Years,Sensitive stomach or digestion,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,05:35:42,Amazon,audience_1,1-6 Years,No specific concern,Royal Canin
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-14,01:27:33,Chewy; Amazon; Walmart or Target,audience_1,7-11 Years,Everyday health and wellness,Other
@@ -1570,6 +1576,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,13:49:25,PetSmart,audience_1,7-11 Years
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,12:45:10,Walmart or Target; Petco; PetSmart,audience_1,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,17:27:18,Chewy; Grocery store,meta,1-6 Years,No specific concern,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-21,00:02:05,Grocery store,audience_1,1-6 Years,Sensitive stomach or digestion,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:26:01,Chewy,meta,12+ Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,08:15:43,Chewy,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-23,18:47:12,Grocery store,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,11:56:13,Petco,meta,1-6 Years,Everyday health and wellness,Other
@@ -1807,6 +1814,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,19:19:50,Petco; Chewy,meta,1-6 Years,Ev
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-14,21:16:13,Grocery store,audience_1,Under One Year,No specific concern,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,10:05:07,Chewy,meta,7-11 Years,Sensitive stomach or digestion,Hill's Science Diet
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,11:54:59,Walmart or Target,meta,12+ Years,Everyday health and wellness,Other
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:30:13,PetSmart,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,22:24:02,Amazon; Chewy; Walmart or Target,meta,1-6 Years,No specific concern,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,04:13:29,Walmart or Target,meta,1-6 Years,Sensitive stomach or digestion,Hill's Science Diet
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,23:25:36,Walmart or Target,meta,7-11 Years,Healthy weight,Other
@@ -1963,6 +1971,8 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,20:21:39,Grocery store,meta,12+ Years,E
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-16,23:31:44,Chewy,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-19,15:22:48,Grocery store,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,19:59:17,Walmart or Target,meta,1-6 Years,Everyday health and wellness,Other
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,14:01:42,PetSmart,meta,12+ Years,Everyday health and wellness,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,14:06:00,Amazon,meta,7-11 Years,Everyday health and wellness,Royal Canin
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,14:31:37,PetSmart; Petco,audience_1,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,15:38:38,Other; Grocery store; Walmart or Target; Amazon,meta,1-6 Years,Healthy weight,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,01:51:45,Petco; PetSmart; Chewy,audience_1,1-6 Years,No specific concern,Purina Pro Plan
@@ -2222,6 +2232,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,18:20:54,Walmart or Target,meta,1-6 Yea
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,18:50:38,Walmart or Target,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,21:48:37,Petco,meta,1-6 Years,Healthy weight,Hill's Science Diet
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,19:45:57,Amazon; PetSmart,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:27:14,Chewy,meta,7-11 Years,Sensitive stomach or digestion,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-23,02:33:40,PetSmart,meta,12+ Years,Sensitive stomach or digestion,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,20:23:54,PetSmart,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,12:46:16,Walmart or Target,audience_1,7-11 Years,Everyday health and wellness,Other
@@ -2407,6 +2418,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,05:17:48,Chewy,meta,1-6 Years,Healthy w
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-23,03:38:45,Walmart or Target,meta,1-6 Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,20:10:51,PetSmart; Petco,meta,1-6 Years,Sensitive stomach or digestion,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,13:17:48,Chewy,meta,12+ Years,Healthy weight,Other
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:28:58,Walmart or Target; Amazon; Chewy; Petco; PetSmart,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,22:29:44,Walmart or Target; Amazon,meta,1-6 Years,Healthy weight,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-16,15:28:18,Walmart or Target,audience_1,7-11 Years,No specific concern,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-20,00:49:09,Petco; PetSmart; Walmart or Target,audience_1,1-6 Years,Everyday health and wellness,Purina Pro Plan
@@ -3232,6 +3244,7 @@ PROWESS ALL-IN-ONE ESSENTIALS,2026-08-22,04:09:24,Petco,meta,1-6 Years,Everyday 
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-16,02:16:02,PetSmart; Walmart or Target; Amazon,meta,Under One Year,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-12,21:19:06,PetSmart,meta,1-6 Years,Healthy weight,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-13,09:28:13,Amazon,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
+PROWESS ALL-IN-ONE ESSENTIALS,2026-08-25,13:21:17,Amazon,meta,1-6 Years,Sensitive stomach or digestion,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-18,06:34:14,Walmart or Target,meta,1-6 Years,Everyday health and wellness,Purina Pro Plan
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-24,04:34:49,PetSmart,meta,12+ Years,Everyday health and wellness,Other
 PROWESS ALL-IN-ONE ESSENTIALS,2026-08-21,03:23:12,Walmart or Target,meta,12+ Years,No specific concern,Other
